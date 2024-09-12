@@ -9,3 +9,6 @@ def hello_world2():
 def hello_world3():
         """Returns the string 'Hello World 3'."""
     return "Hello World 3"
+
+def hi_guys()
+     return "hi guys"
