@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v1.1.0 (2024-09-13)
+
+### Feature
+
+* feat(mylibrary): add a second function ([`cb3e9af`](https://github.com/EnzoVCode/mylibrary/commit/cb3e9af8dcfab7263376feb2b5fbfb63ce605896))
+
 ## v1.0.0 (2024-09-13)
 
 ### Breaking
