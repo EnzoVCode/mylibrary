@@ -1,6 +1,12 @@
 # CHANGELOG
 
-## Unreleased
+## v1.0.0 (2024-09-13)
+
+### Breaking
+
+* feat: update the code majorly
+
+BREAKING CHANGE: multiple functions removed it cannot be used ([`144d44f`](https://github.com/EnzoVCode/mylibrary/commit/144d44ffe89c3d811f23fcb48215380b90a22ba2))
 
 ### Feature
 
