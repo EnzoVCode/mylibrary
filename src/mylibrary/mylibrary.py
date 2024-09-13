@@ -12,3 +12,6 @@ def hello_world3():
 
 def hi_guys()
      return "hi guys"
+
+def third_attempt()
+     return "third attempt"
