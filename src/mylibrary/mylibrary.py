@@ -15,3 +15,6 @@ def hi_guys()
 
 def third_attempt()
      return "third attempt"
+
+def fonction_5()
+     return "fonction 5"
